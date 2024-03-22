@@ -1,4 +1,4 @@
-### Hi there it's Riggs
+### Hi there, it's Riggs
 
 ## Who am i?
 I'm a student developer interested in Machine Learning and WebDevelopment, I like teaching Computer Science
